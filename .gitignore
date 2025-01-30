@@ -1,0 +1,9 @@
+ECHO is on.
+# Ігнорування директорій
+bin/
+obj/
+.vs/
+.idea/
+
+# Ігнорування файлів
+temporary.txt
